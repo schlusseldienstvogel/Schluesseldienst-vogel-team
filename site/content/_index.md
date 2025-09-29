@@ -1,13 +1,12 @@
 ---
 title: Ausgesperrt? Keine Panick
-subtitle: "Wir sind unterwegs! "
+subtitle: <a href="tel:+49-123-4567890" style="display:inline-block;padding:12px
+  18px;background:#e53935;color:#fff;border-radius:8px;text-decoration:none;font-weight:700;">   Jetzt
+  anrufen </a>
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Warum Schlüsseldienst Vogel?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  text: sdsd
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
